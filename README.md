@@ -1,0 +1,2 @@
+# CoolWeatherBot
+Погодный бот
